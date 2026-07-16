@@ -36,7 +36,7 @@ Click the thumbnail below to watch a full showcase of Nyay AI in action, includi
 
 ## 🛠️ Tech Stack
 
-- **Foundation Model:** [varma007ut/Indian_Legal_Assitant](https://huggingface.co/varma007ut/Indian_Legal_Assitant) (LLaMA 3.1 8B GGUF)
+- **Foundation Model:**  (LLaMA 3.1 8B GGUF)
 - **Backend:** Python, Flask
 - **AI Engine:** `llama-cpp-python`
 - **GPU Acceleration:** NVIDIA CUDA
